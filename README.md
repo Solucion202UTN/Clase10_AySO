@@ -1,2 +1,6 @@
-# Clase10_AySO
-Clase 10 de Arquitectura y Sistemas Operativos
+# Arquitectura y Sistemas Operativos
+
+## Clase 10
+
+### nos gusta estudiar y aprender 💻 🐍 con una buena taza de ☕
+
