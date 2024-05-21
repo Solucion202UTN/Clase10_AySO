@@ -5,3 +5,6 @@
 ### nos gusta estudiar y aprender 💻 🐍 con una buena taza de ☕
 
 ### pero más nos gusta la 🥳🍺🍻
+
+
+### Equipo Solución 202
